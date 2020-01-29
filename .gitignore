@@ -2,3 +2,5 @@ jsongit
 node_modules
 package-lock.json
 *.log
+huge
+out

@@ -11,28 +11,15 @@
         "dom"
     ],
     "rootDir": ".",
-    "outDir": ".",
-    "strict": true,
-    "alwaysStrict": true,
-    "strictFunctionTypes": true,
-    "strictNullChecks": true,
-    "strictPropertyInitialization": true,
+    "outDir": "out",
     "esModuleInterop": true,
-
-    "forceConsistentCasingInFileNames": true,
-    "noImplicitAny": true,
-    "noImplicitReturns": true,
-    "noImplicitThis": true,
-    "noFallthroughCasesInSwitch": true,
-    "noUnusedLocals": true,
-    "noUnusedParameters": true,
 
     "declaration": true,
     "resolveJsonModule": true,
     "pretty": true
   },
   "include": [
-    "trimerge.ts",
+    "*.ts",
   ],
   "exclude": [
     "node_modules"
