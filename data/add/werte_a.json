@@ -4679,44 +4679,6 @@
   "changedAttributes": [],
   "nichtLieferbar": false,
   "Wortliste A-Z": {
-   "content": "Zeichen"
-  },
-  "Datum lang": {
-   "content": "2018-05-03T22:00:00.000Z"
-  },
-  "Datum kompakt": {
-   "content": 20180504
-  },
-  "Führende Nullen": {
-   "content": "00000124"
-  },
-  "Dezimale": {
-   "content": 124.001
-  },
-  "Monat": {
-   "content": "Mai"
-  },
-  "Sonderzeichen": {
-   "content": ""
-  },
-  "Beschreibung Sonderzeichen": {
-   "content": ""
-  },
-  "Wahrheitswert": {
-   "content": "false"
-  },
-  "Langer Text": {
-   "content": ""
-  },
-  "id": "OqHlKNB-rw",
-  "isReadOnly": false,
-  "createdBy": "sdv",
-  "createdOn": "2020-01-25T12:15:59.423Z"
- },
- {
-  "changedAttributes": [],
-  "nichtLieferbar": false,
-  "Wortliste A-Z": {
    "content": "Zeitung"
   },
   "Datum lang": {
